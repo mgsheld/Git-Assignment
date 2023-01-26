@@ -1,8 +1,8 @@
-
+//A Version of my dice game that doesn't run just for this assignemnt
 
 let playerScore = 0
 
-let playerName = prompt ('Please Enter your Name ')
+//let playerName = prompt ('Please Enter your Name ')
 console.log ('Hi ' + playerName)
 
 
